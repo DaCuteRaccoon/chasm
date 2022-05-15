@@ -12,6 +12,6 @@ To compile, run `make compile` in your shell. If you just want to compile the as
 
 To clean, you can run `make clean`. Like compiling, you can run `make clean-asm` or `make clean-out` depending on your needs.
 
-If you have a compiled, you can run `make run`, just an alias for `./main`.
+If you compiled your assembly, you can run `make run`, just an alias for `./main`.
 
 If you want to **compile, run, and clean** all at the same time, run `make exec`.
